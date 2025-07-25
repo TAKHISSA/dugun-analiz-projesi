@@ -3,5 +3,4 @@ venv/
 __pycache__/
 *.log
 nltk_data/
-outputs/
 
